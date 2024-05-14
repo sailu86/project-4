@@ -1,0 +1,14 @@
+.section-hero {
+  width: 100%;
+}
+.hero-class img {
+  background-position: center;
+  height: auto;
+  width: 100%;
+}
+.hero-class h1 {
+  font-weight: bold;
+  font: 1em sans-serif;
+  font-variant: small-caps;
+  color: white;
+}
